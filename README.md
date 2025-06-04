@@ -1,1 +1,1 @@
-An Guthub folder for storing files temporariely
+An folder for storing or sharing files
